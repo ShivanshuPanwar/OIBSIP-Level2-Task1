@@ -1,0 +1,20 @@
+.text{
+    text-align: center;
+    background-color: orange;
+}
+.bg{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
